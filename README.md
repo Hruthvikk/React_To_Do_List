@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![React App — Mozilla Firefox 2022-12-19 9_25_20 PM](https://user-images.githubusercontent.com/101742067/208567714-bdff5029-30da-4b9a-a960-203cf2b8b631.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
